@@ -8,6 +8,8 @@ The arduino is connected to a USB type-A female connector which will be connecte
 The Display is mouted on the m-SD shield which is mounted on the arduino uno board. The Analog inputs for the display will be disconnected and the USB input will replace the touch display.
 
 ![image](https://user-images.githubusercontent.com/40824378/120810953-c992eb00-c54b-11eb-8ae2-56887580077d.png)
+(image source: https://learn.watterott.com/de/shields/msd-shield/)
+
 ![image](https://user-images.githubusercontent.com/40824378/120813573-4d4dd700-c54e-11eb-912a-38449002e8d7.png)
 
 
