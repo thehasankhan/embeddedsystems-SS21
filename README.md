@@ -17,13 +17,13 @@ The Display is mouted on the m-SD shield which is mounted on the arduino uno boa
 - (1x) Arduino Uno
 - (2x) Display Watterott MI0283QT-2 [1x extra in case of failover]
 - (2x) microSD Shield Watterott [1x extra in case of failover]
-~~- (8x) 1.5V AA Batteries~~ Takes power directly from the USB port
+- ~~- (8x) 1.5V AA Batteries~~ Takes power directly from the USB port
 - (10x) cut wires for connections
 - (2x) USB type-A connectors (female) [1x extra in case of failover]
 - (1x) Standard USB keyboard
-~~- (5x) 220 Ohms resistors~~ No need for additional resistances
+- ~~- (5x) 220 Ohms resistors~~ No need for additional resistances
 - (1x) Arduino to USB connector cable
-~~- (2x) Switch or push button [1x extra in case of failover]~~ Takes power directly from USB port
+- ~~- (2x) Switch or push button [1x extra in case of failover]~~ Takes power directly from USB port
 - (4x) Standard red LED (for connection troubleshooting)
 - (1x) Breadboard
 
