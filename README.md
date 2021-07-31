@@ -13,7 +13,7 @@ The Display is mouted on the m-SD shield which is mounted on the arduino uno boa
 ![image](https://user-images.githubusercontent.com/40824378/120813573-4d4dd700-c54e-11eb-912a-38449002e8d7.png)
 
 
-###Parts Needed:
+### Parts Needed:
 - (1x) Arduino Uno
 - (2x) Display Watterott MI0283QT-2 [1x extra in case of failover]
 - (2x) microSD Shield Watterott [1x extra in case of failover]
@@ -42,8 +42,8 @@ Upload the code to the Arduino Uno board.
 Libraries used are in the libraries folder. These are:-
 - <MI0283QT2.h>
 - <PS2Keyboard.h>
-- <GraphicsLib>
-- <digitalWriteFast>
+- GraphicsLib
+- digitalWriteFast
 
 
 ### Game code explanation:
