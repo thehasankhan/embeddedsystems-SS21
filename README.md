@@ -73,6 +73,7 @@ We define a few variables in the beginning. These are
 
 ### Code Explanation:
 The player begins the game at the home screen. He or she has three options. He can either start the game by selecting 1, or he can get information by selecting 2 (About information) or 3 (Game instructions).
+\n
 If he chooses 1, he is taken to another screen where he can select one of the two levels.
 Upon selecting a level, his game for that specific level begins. He is shown a string of characters and then they disappear. He has to memorize and enter the characters correctly in the given time. Failure to do so will exit his game and bring him to the home screen
 If he enters the letters correctly, he is congratulated and his score is shown. He can then either opt to play the game again and add up to his score, or he can quit to the home screen.
