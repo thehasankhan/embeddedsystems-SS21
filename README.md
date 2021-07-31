@@ -57,7 +57,8 @@ There are 6 functions
 - void startgame2()
 
 The following is the general flow of instruction is the game
-![image](https://user-images.githubusercontent.com/40824378/127754362-1aef2a9d-9d94-4809-8bc7-b12b6d38bf74.png)
+![image](https://user-images.githubusercontent.com/40824378/127754589-97150277-776f-47ca-888d-f4e92c57485b.png)
+
 
 #### Variables:
 We define a few variables in the beginning. These are 
