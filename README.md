@@ -29,16 +29,16 @@ The Display is mouted on the m-SD shield which is mounted on the arduino uno boa
 
 
 
-###Group Participants:
+### Group Participants:
 - Muhammad Hasan Khan
 - Ramsha Munir
 
-###Installation instructions
+### Installation instructions
 Just download the typing-challenge.ino file and open it in the arduino IDE. It will ask you to create a folder named "typing-challenge" (if using the windows client). Create the folder and this will launch in the IDE. 
 Add the needed libraries.
 Upload the code to the Arduino Uno board.
 
-###Libraries used:
+### Libraries used:
 Libraries used are in the libraries folder. These are:-
 - <MI0283QT2.h>
 - <PS2Keyboard.h>
@@ -46,4 +46,4 @@ Libraries used are in the libraries folder. These are:-
 - <digitalWriteFast>
 
 
-###Game code explanation:
+### Game code explanation:
